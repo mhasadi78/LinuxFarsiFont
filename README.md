@@ -9,3 +9,8 @@ Copy `10-sahel.conf` file to this path. (Create subdirectories as needed):
 ```
 cp 10-sahel.conf $HOME/.config/fontconfig/conf.d/10-sahel.conf
 ```
+After copying the config file, you need to rebuild your *fontconfig* cahce:
+```
+fc-cache
+```
+Log out and log back in for changes to take effect.
