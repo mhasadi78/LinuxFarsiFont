@@ -19,7 +19,7 @@ Fontconfig lets users override system fonts by placing XML rules in
 ## Prerequisites
 
 Install the **Sahel** font on your system. It is available in most distro
-package repositories and also from [fontforge.github.io](https://fontforge.github.io/).
+package repositories and also from [Designer's Website](https://rastikerdar.github.io/sahel-font/).
 
 If you prefer a different font, edit every `<string>Sahel</string>` line
 in `10-sahel.conf` before installing.
@@ -64,7 +64,7 @@ GNU General Public License v3.0 — see [LICENSE](LICENSE).
 
 فونت **ساحل** باید روی سیستم شما نصب باشد. می‌توانید آن را از مخزن
 پکیج‌های توزیع لینوکس خود یا از
-[fontforge.github.io](https://fontforge.github.io/) دریافت کنید.
+[وبسایت سازنده](https://rastikerdar.github.io/sahel-font/) دریافت کنید.
 
 اگر می‌خواهید از فونت دیگری استفاده کنید، قبل از نصب، تمام خطوط
 `<string>Sahel</string>` در فایل `10-sahel.conf` را به نام فونت دلخواه
